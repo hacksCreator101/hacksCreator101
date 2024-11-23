@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hacksCreator101
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java codes
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me novascript32@gmail.com
